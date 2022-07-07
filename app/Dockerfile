@@ -1,4 +1,4 @@
-FROM "node:13-alpine"
+FROM "node:18-alpine"
 
 RUN npm i -g create-react-app
 
